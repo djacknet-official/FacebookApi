@@ -1,7 +1,7 @@
 # FacebookApi
 Facebook Api for facebook bot
 
-FacebookSender
+<b>FacebookSender</b>
 use DjackNet\FBApi\FacebookSender;
 
 This class send raw data to fb server
@@ -14,7 +14,7 @@ $fs->execute(); //Send to fb server1
 $fs->rawExecute($jsonStrign);
 
 
-FacebookMessage
+<b>FacebookMessage</b>
 use DjackNet\FBApi\FacebookMessage;
 use DjackNet\FBApi\FacebookMessageTypes;
 
